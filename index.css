@@ -1,0 +1,12 @@
+<div class="outer-container">
+<div class="text-container">
+    <h1 class="text"> READY TO BUILD <span>YOUR DREAM</span> BRAND.</h1>
+    <h2 class="subtext">You're in the right place.</h2>
+    <a href="https://thehumanista.co/home">Learn how with this free workbook. </a>
+</div>
+</div>
+
+.outer-container {
+    border-top: 3px solid black;
+     
+}
