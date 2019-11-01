@@ -8,5 +8,31 @@
 
 .outer-container {
     border-top: 3px solid black;
-     
+    background-color: tan;
+    padding: 20px;
+}
+
+.text-container {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+};
+
+
+.text {
+    font-size: 5rem;
+    color: black;
+}
+
+.subtext {
+    font-size: 1.5rem;
+    color: black
+}
+
+a {
+    color: white;
+    background-color: black;
+    padding: 10px;
 }
