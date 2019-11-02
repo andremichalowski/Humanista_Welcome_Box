@@ -20,7 +20,12 @@
 
 
 
-
+.text-two {
+    font-size: 4rem;
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    padding: 2px 30px;
+}
 
 span {
     font-size: 4.2rem;
