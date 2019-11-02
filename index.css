@@ -27,7 +27,11 @@ span {
     font-family: 'Dancing Script', cursive;
 }
 
-
+.subtext {
+    font-size: 1.5rem;
+    color: black
+    font-family: 'Montserrat', sans-serif;
+}
 
 a {
     color: white;
